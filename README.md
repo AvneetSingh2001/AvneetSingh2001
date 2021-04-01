@@ -3,7 +3,7 @@
 ### I'm B.Tech student with major in CSE 😇
 
 - 👋 Hi, I’m @AvneetSingh2001
-- 👀 I’m interested in **Learning new Technologies and build amazing projects**
+- 👀 I’m interested in **Learning new Technologies and building amazing projects**
 - 🌱 I’m currently learning ***Android development using java***
 - 💬 Ask me about **anything related to** ***android development*** **and languages** - ***C++ , C***  and ***Java***
 - 📫 How to reach me *avneetmaankiya@gmail.com*
