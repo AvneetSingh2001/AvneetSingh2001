@@ -11,7 +11,7 @@
 
 <p align="center">
   <em>
-    Hey, I am Avneet Singh a <b>first year</b> B.Tech student with major in CSE from<a href="https://www.gehu.ac.in/"> <b>Graphic Era Hill University</b>, Dehradun </a>. <br>
+    Hey, I am Avneet Singh a <b>first year</b> B.Tech student with major in CSE branch from<a href="https://www.gehu.ac.in/"> <b>Graphic Era Hill University</b>, Dehradun </a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and an <b>App developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
   </em> 
   <br>
