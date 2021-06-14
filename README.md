@@ -3,10 +3,9 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Avneet Singh</h1>
-<h3 align="center"> </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/avneet-singh-2001/" target="blank"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="Avneet Singh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/avneetmaankiya" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="@avneetmaankiya" height="30" width="40" /></a>
+<h3 align="center">Let's Connect :coffee: </h3>
+<p align="center"> 
+<a href="https://www.linkedin.com/in/avneet-singh-2001/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 </p>
 
@@ -32,7 +31,13 @@
 - 🤝 Feel free to ask your problems, **Always ready to help**
 - 💬 Ask me about **anything related to** ***android development*** **and languages** - ***C++ , C***  and ***Java***
 - 📫 How to reach me *avneetmaankiya@gmail.com*
-
+<br><br>
+<br><br>
+<p align="center">
+ <em>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AvneetSingh2001&o=include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+   
+   </p>
 <!---
 AvneetSingh2001/AvneetSingh2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
