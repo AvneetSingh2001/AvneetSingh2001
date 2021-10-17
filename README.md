@@ -23,7 +23,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-### I'm first year B.Tech student with major in CSE 😇
+### I'm Sophomore persuing B.Tech with major in CSE 😇
 
 - 👋 Hi, I’m @AvneetSingh2001
 - 👀 I’m interested in **Learning new Technologies and building amazing projects**
