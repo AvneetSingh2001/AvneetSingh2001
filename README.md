@@ -27,9 +27,9 @@
 
 - 👋 Hi, I’m @AvneetSingh2001
 - 👀 I’m interested in **Learning new Technologies and building amazing projects**
-- 🌱 I’m currently learning ***Android development using java***
+- 🌱 I’m currently learning ***Native App development and flutter***
 - 🤝 Feel free to ask your problems, **Always ready to help**
-- 💬 Ask me about **anything related to** ***android development*** **and languages** - ***C++ , C***  and ***Java***
+- 💬 Ask me about **anything related to** ***App development*** **and languages** - ***C++ , C***  and ***Java***
 - 📫 How to reach me *avneetmaankiya@gmail.com*
 <br><br>
 <br><br>
