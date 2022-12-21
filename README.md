@@ -23,13 +23,13 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-### I'm Sophomore persuing B.Tech with major in CSE 😇
+### I'm third year student persuing B.Tech with major in CSE 😇
 
 - 👋 Hi, I’m @AvneetSingh2001
 - 👀 I’m interested in **Learning new Technologies and building amazing projects**
-- 🌱 I’m currently learning ***Native App development and flutter***
+- 🌱 I’m currently learning ***Native App development with kotlin***
 - 🤝 Feel free to ask your problems, **Always ready to help**
-- 💬 Ask me about **anything related to** ***App development*** **and languages** - ***C++ , C***  and ***Java***
+- 💬 Ask me about **anything related to** ***App development, flutter, firebase*** **and languages** - ***C++ , C***  and ***Java***
 - 📫 How to reach me *avneetmaankiya@gmail.com*
 <br><br>
 <br><br>
